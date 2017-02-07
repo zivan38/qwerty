@@ -16,7 +16,7 @@ public class Main {
 	}
 	
 	public double mult(double a, double b){
-		double res = a*2;
+		double res = a*b;
 		return res;
 	}
 }
