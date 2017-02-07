@@ -1,0 +1,12 @@
+public class Main {
+
+    public static void main(String[] args) {
+        double c = add(5,2);
+		System.out.println (c);
+    }
+	
+	public double addition(double a, double b){
+		double res = a+b;
+		return res;
+	}
+}
